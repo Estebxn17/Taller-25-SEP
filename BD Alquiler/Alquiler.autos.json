@@ -1,0 +1,87 @@
+[{
+  "_id": {
+    "$oid": "66f4654c597a9db696f61159"
+  },
+  "marca": "Toyota",
+  "modelo": "Corolla",
+  "año": 2022,
+  "disponibilidad": false
+},
+{
+  "_id": {
+    "$oid": "66f4655b597a9db696f6115a"
+  },
+  "marca": "BMW",
+  "modelo": "2022",
+  "año": 2022,
+  "disponibilidad": false
+},
+{
+  "_id": {
+    "$oid": "66f465aa597a9db696f6115b"
+  },
+  "marca": "HYUNDAY",
+  "modelo": "2023",
+  "año": 2022,
+  "disponibilidad": false
+},
+{
+  "_id": {
+    "$oid": "66f47e9da8f7592492b62f90"
+  },
+  "marca": "Toyota",
+  "modelo": "Corolla",
+  "año": 2020,
+  "disponibilidad": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f47ecf4276924b9f68f38b"
+  },
+  "marca": "Toyota",
+  "modelo": "Corolla",
+  "año": 2020,
+  "disponibilidad": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f47f02eaede7c17d16222f"
+  },
+  "marca": "Toyota",
+  "modelo": "Corolla",
+  "año": 2020,
+  "disponibilidad": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f47fa4386e39d0b3411881"
+  },
+  "marca": "Toyota",
+  "modelo": "Corolla",
+  "año": 2020,
+  "disponibilidad": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f47fef386e39d0b3411883"
+  },
+  "marca": "Ferrari",
+  "modelo": "Ferraroza",
+  "año": 2020,
+  "disponibilidad": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f4854861ebae39bb1e996d"
+  },
+  "marca": "Toyota",
+  "modelo": "Corolla",
+  "año": 2020,
+  "disponibilidad": true,
+  "__v": 0
+}]

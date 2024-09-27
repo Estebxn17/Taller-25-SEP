@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "66f47724df3bdf3d07c1f2b9"
+  },
+  "nombre": "Juan Pérez",
+  "correo": "juan.perez@example.com",
+  "numero_licencia": "123456789",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f4821161ebae39bb1e9967"
+  },
+  "nombre": "Esteban",
+  "correo": "esteban.perez@example.com",
+  "numero_licencia": "65645644",
+  "__v": 0
+}]
